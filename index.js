@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["PETSIM99 CASINO","/mines","/info","BEST SERVER"];
 
 
 let currentIndex = 0;
